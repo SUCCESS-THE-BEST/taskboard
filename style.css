@@ -1,0 +1,36 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: bisque;
+    
+}
+
+
+header a:hover {
+    background-color: green;
+    padding: 20px 0;
+    text-align: center;
+}
+
+
+nav ul {
+    list-style: none;
+    padding: 0;
+    margin: 10px 0 0 0;
+    display: flex;
+    justify-content: center;
+    gap: 20px; 
+}
+
+nav ul li a {
+    text-decoration: none;
+    font-weight: bold;
+    padding: 5px 10px;
+    border-radius: 5px;
+}
+h1{
+    color: crimson;
+    text-align: center;
+}
+
+
+
